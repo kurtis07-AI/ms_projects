@@ -1,2 +1,2 @@
 # ms_projects
-Masterschool's projects, predominantly on CODIO.
+Here are stored all the Masterschool's projects, which are done predominantly on CODIO.
